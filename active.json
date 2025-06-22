@@ -1,1 +1,16 @@
-
+{
+  "users": [
+    {
+      "username": "Dev.Ahmed.R",
+      "serial_key": "LORD"
+    },
+    {
+      "username": "tester",
+      "serial_key": "tester"
+    },
+    {
+      "username": "TestUser",
+      "serial_key": "Demo"
+    }
+  ]
+}
