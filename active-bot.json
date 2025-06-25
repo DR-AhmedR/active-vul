@@ -1,1 +1,34 @@
-
+{
+  "bots": [
+    {
+      "name": "Dev",
+      "serial": "GGE-Dev-Ahmed",
+      "created_date": "2025-06-25",
+      "expiry_date": "2030-06-25",
+      "status": "active"
+    },
+    {
+      "name": "Mohab .M Belcan", 
+      "serial": "GGE-2025-002-mohab",
+      "created_date": "2025-06-25",
+      "expiry_date": "2026-06-25",
+      "status": "active"
+    },
+    {
+      "name": "Mekha",
+      "serial": "GGE-2025-003-mekha",
+      "created_date": "2025-06-25",
+      "expiry_date": "2026-06-25",
+      "status": "active"
+    },
+    {
+      "name": "Kero",
+      "serial": "GGE-2025-004-kero",
+      "created_date": "2025-06-25",
+      "expiry_date": "2026-06-25",
+      "status": "active"
+    }
+  ],
+  "last_updated": "2025-06-25T14:59:00Z",
+  "version": "1.0.0"
+}
