@@ -1,1 +1,16 @@
-
+[
+  {
+    "username": "test",
+    "key": "test123test",
+    "status": "active",
+    "activation_date": "2025-06-29",
+    "expiration_date": "2025-12-01"
+  },
+  {
+    "username": "rock",
+    "key": "the_roooock",
+    "status": "active",
+    "activation_date": "2025-06-29",
+    "expiration_date": "2025-12-1"
+  }
+]
